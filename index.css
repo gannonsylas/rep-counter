@@ -1,6 +1,7 @@
 body {
     background-image: url("https://media.gq-magazine.co.uk/photos/5e343c84be85dd00081a9bf8/16:9/pass/20191210-dumbbell.jpg");
-    background-size: cover;
+    background-size: 50%;
+    background-repeat: repeat;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
@@ -15,6 +16,7 @@ body {
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
+    padding: 10px; 
 }
 
 h1 {
